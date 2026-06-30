@@ -15,7 +15,7 @@ dependencies = [
     "scikit-learn>=1.6.0,<1.7",
     "seaborn>=0.13.2",
     "sequence>=0.8.0",
-    "tensorflow>=2.20.0",
+    "tensorflow==2.16.2",
     "torch>=2.8.0",
     "torchvision>=0.23.0",
     "llvmlite>=0.45.0",
